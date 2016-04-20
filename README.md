@@ -1,2 +1,2 @@
-e dotfiles
+# dotfiles
 ## ホームディレクトリのdotfilesを管理したい
